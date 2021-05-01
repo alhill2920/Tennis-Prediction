@@ -1,4 +1,12 @@
-Instructions
+#Tennis Predictions
+This is a simple program to predict the winner of a tennis match.
+The model is a multiple linear regression model that predicts the matches won percentage for each player.
+Then, the numbers are compared between two players to predict the winner of their match.
+
+
+
+##Instructions
+
 Download the tennis.r file and the tennis_data.csv file. 
 Then, open the tennis.r file with RStudio and change the directory to the downloads folder.
 After doing that, first look at the list of tennis players by typing "list()" and selecting the code and clicking the run button.
