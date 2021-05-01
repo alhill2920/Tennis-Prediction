@@ -8,6 +8,16 @@ This project uses R code to create a model for predicting the matches won percen
 
 The function in R then compares the predicted numbers between two players and decides which player would be expected to win.
 
+## Contents
+
+1) winner.r - this is the R code for predicting the winner of a tennis match
+
+2) tennis_data.csv - this is the dataset used to create the model
+
+3) tennis-prediction-plotanalysis.docx - this is the brief analysis of the residual plots (available for download; includes the plots)
+
+4) model-analysis.md - this is the brief analysis of residual plots available to read on github (does not include the plots)
+
 ## How to Use
 
 Download the tennis.r file and the tennis_data.csv file. 
