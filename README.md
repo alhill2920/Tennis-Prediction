@@ -1,4 +1,4 @@
-#Tennis Predictions
+# Tennis Predictions
 
 This is a simple program to predict the winner of a tennis match.
 
@@ -7,7 +7,7 @@ The model is a multiple linear regression model that predicts the matches won pe
 Then, the numbers are compared between two players to predict the winner of their match.
 
 
-##Instructions
+## Instructions
 
 Download the tennis.r file and the tennis_data.csv file. 
 
